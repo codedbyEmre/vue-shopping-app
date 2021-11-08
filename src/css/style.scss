@@ -1,0 +1,25 @@
+body{
+    min-height: 100vh;
+    background-color: #f8f1d6;
+    overflow-x: hidden;
+    .rating{
+        height: 1rem;
+        width: 1rem;
+        padding: 0.25rem 0.35rem;
+        border-radius: 0.25rem;
+        font-weight: bold;
+        font-size: 0.8rem;
+    }
+    .highRating{
+        background-color: rgb(0, 148, 0);
+        color: #fff;
+    }
+    .avgRating{
+        background-color: rgb(255, 255, 0);
+        color: rgb(107, 107, 107);
+    }
+    .lowRating{
+        background-color: #f00;
+        color: #fff;
+    }
+}
