@@ -1,6 +1,13 @@
 # vue-shopping-app
 
-A shopping app that displays and filters products.Also, products can be added to shopping card.It was created by using Vue3,Vuex,Vue Router,Bootstrap5 and Scss.
+## Stacks
+```
+Vue 3
+Options Api
+Vue Router 4
+Vuex 4
+Bootstrap 5
+```
 
 The API which was used on this project is <a href="https://fakestoreapi.com/docs" target="_blank">here</a>
 
